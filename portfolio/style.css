@@ -141,6 +141,8 @@ nav ul li a:hover::after{
 /*---------projects---------*/
 #projects{
   padding: 30px 0px;
+ background-color: black;
+ color: white;
   
 }
 .projects-list{
@@ -176,7 +178,10 @@ nav ul li a:hover::after{
 }
 
 /*-------------contact------------*/
-
+#contact{
+  background-color: black;
+  color: white;
+}
 .subtitle{  
   font-size: 60px;
   font-weight: 600;
