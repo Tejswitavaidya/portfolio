@@ -19,7 +19,8 @@
     color: white;   
 }
 .container{
-  padding: 10px 1%;
+  padding: 10px 10%;
+  width 100%
 }
 nav{
   display: flex;
